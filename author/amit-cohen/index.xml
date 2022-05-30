@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit Cohen | PLUS Research Group</title>
+    <link>/author/amit-cohen/</link>
+      <atom:link href="/author/amit-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Cohen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/amit-cohen/avatar_hu900b585fc264916b1107ca5da155a5c7_73079_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Amit Cohen</title>
+      <link>/author/amit-cohen/</link>
+    </image>
+    
+  </channel>
+</rss>

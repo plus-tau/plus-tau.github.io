@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limin Jia | PLUS Research Group</title>
+    <link>/author/limin-jia/</link>
+      <atom:link href="/author/limin-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Limin Jia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/limin-jia/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Limin Jia</title>
+      <link>/author/limin-jia/</link>
+    </image>
+    
+    <item>
+      <title>How Risky Are Real Users&#39; IFTTT Applets?</title>
+      <link>/publication/soups20-ifttt/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/soups20-ifttt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riding Out DOMsday: Toward Detecting and Preventing DOM Cross-Site Scripting</title>
+      <link>/publication/ndss18-dom-xss/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ndss18-dom-xss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

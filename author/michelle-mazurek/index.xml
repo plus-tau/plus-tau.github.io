@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michelle Mazurek | PLUS Research Group</title>
+    <link>/author/michelle-mazurek/</link>
+      <atom:link href="/author/michelle-mazurek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michelle Mazurek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/michelle-mazurek/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Michelle Mazurek</title>
+      <link>/author/michelle-mazurek/</link>
+    </image>
+    
+    <item>
+      <title>Comparing Hypothetical and Realistic Privacy Valuations</title>
+      <link>/publication/wpes18-privacy-valuations/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/wpes18-privacy-valuations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nadav Gat | PLUS Research Group</title>
+    <link>/author/nadav-gat/</link>
+      <atom:link href="/author/nadav-gat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nadav Gat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/nadav-gat/avatar_hu7e0d05c5f02f66b4d9e700a5d4380a85_162702_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nadav Gat</title>
+      <link>/author/nadav-gat/</link>
+    </image>
+    
+  </channel>
+</rss>
