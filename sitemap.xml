@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -15,10 +15,43 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/clark-barrett/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/gagandeep-singh/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/haoze-wu/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mahmood-sharif/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/nina-narodytska/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/oopsla22-gnn-verify/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/hai22-bots/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/daniel-kats/</loc>
+    <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/icml22-cgd/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
@@ -29,41 +62,11 @@
     <loc>/author/lujo-bauer/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/mahmood-sharif/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/michael-k.-reiter/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/weiran-lin/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/clark-barrett/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/gagandeep-singh/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/haoze-wu/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/nina-narodytska/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/arxiv22-gnn-verify/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/asiaccs21-malware/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
@@ -122,6 +125,9 @@
     <loc>/publication/arxiv19-nml/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -135,9 +141,6 @@
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/christopher-gates/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/daniel-kats/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/matteo-dellamico/</loc>
@@ -224,6 +227,8 @@
     <loc>/author/naama-yochai/</loc>
   </url><url>
     <loc>/author/nadav-gat/</loc>
+  </url><url>
+    <loc>/author/neo-eyal/</loc>
   </url><url>
     <loc>/author/nimrod-de-la-vega/</loc>
   </url><url>
