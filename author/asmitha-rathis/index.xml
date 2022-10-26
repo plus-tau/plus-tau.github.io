@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gagandeep Singh | PLUS Research Group</title>
-    <link>/author/gagandeep-singh/</link>
-      <atom:link href="/author/gagandeep-singh/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gagandeep Singh</description>
+    <title>Asmitha Rathis | PLUS Research Group</title>
+    <link>/author/asmitha-rathis/</link>
+      <atom:link href="/author/asmitha-rathis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Asmitha Rathis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
-      <title>Gagandeep Singh</title>
-      <link>/author/gagandeep-singh/</link>
+      <title>Asmitha Rathis</title>
+      <link>/author/asmitha-rathis/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/dmml22-rl-controllers/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/publication/dmml22-rl-controllers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Verification of GNN-based Job Schedulers</title>
-      <link>/publication/oopsla22-gnn-verify/</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/oopsla22-gnn-verify/</guid>
       <description></description>
     </item>
     
