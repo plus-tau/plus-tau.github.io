@@ -28,6 +28,14 @@
     </item>
     
     <item>
+      <title>Adversarial Training for Raw-Binary Malware Classifiers</title>
+      <link>/publication/usenix23-malware-advtrain/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/usenix23-malware-advtrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Property-Driven Evaluation of RL-Controllers in Self-Driving Datacenters</title>
       <link>/publication/dmml22-rl-controllers/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>

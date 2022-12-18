@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Adversarial Training for Raw-Binary Malware Classifiers</title>
+      <link>/publication/usenix23-malware-advtrain/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/usenix23-malware-advtrain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scalable Verification of GNN-based Job Schedulers</title>

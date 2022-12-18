@@ -5,12 +5,20 @@
     <link>/author/mahmood-sharif/</link>
       <atom:link href="/author/mahmood-sharif/index.xml" rel="self" type="application/rss+xml" />
     <description>Mahmood Sharif</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/mahmood-sharif/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_205123_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mahmood Sharif</title>
       <link>/author/mahmood-sharif/</link>
     </image>
+    
+    <item>
+      <title>Adversarial Training for Raw-Binary Malware Classifiers</title>
+      <link>/publication/usenix23-malware-advtrain/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/usenix23-malware-advtrain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Property-Driven Evaluation of RL-Controllers in Self-Driving Datacenters</title>

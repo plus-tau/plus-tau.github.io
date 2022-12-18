@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/publication/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
@@ -14,6 +14,42 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/usenix23-malware-advtrain/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/keane-lucas/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/lujo-bauer/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mahmood-sharif/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/michael-k.-reiter/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/samruddhi-pai/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/weiran-lin/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication-type/9/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -23,13 +59,7 @@
     <loc>/author/asmitha-rathis/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/gagandeep-singh/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/mahmood-sharif/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/marius-vilcu/</loc>
@@ -40,18 +70,6 @@
   </url><url>
     <loc>/publication/dmml22-rl-controllers/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/clark-barrett/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
@@ -69,18 +87,6 @@
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/icml22-cgd/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/keane-lucas/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/lujo-bauer/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/michael-k.-reiter/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/weiran-lin/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/asiaccs21-malware/</loc>
