@@ -5,12 +5,20 @@
     <link>/author/neo-eyal/</link>
       <atom:link href="/author/neo-eyal/index.xml" rel="self" type="application/rss+xml" />
     <description>Neo Eyal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/neo-eyal/avatar_hu73bb11d509042cec7cb5ba22f5122c82_1048719_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Neo Eyal</title>
       <link>/author/neo-eyal/</link>
     </image>
+    
+    <item>
+      <title>Group-based Robustness: A General Framework for Customized Robustness in the Real World</title>
+      <link>/publication/ndss24-gbr/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ndss24-gbr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

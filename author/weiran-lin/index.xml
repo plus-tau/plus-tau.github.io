@@ -5,12 +5,20 @@
     <link>/author/weiran-lin/</link>
       <atom:link href="/author/weiran-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Weiran Lin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/weiran-lin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Weiran Lin</title>
       <link>/author/weiran-lin/</link>
     </image>
+    
+    <item>
+      <title>Group-based Robustness: A General Framework for Customized Robustness in the Real World</title>
+      <link>/publication/ndss24-gbr/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/ndss24-gbr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adversarial Training for Raw-Binary Malware Classifiers</title>
