@@ -5,16 +5,16 @@
     <loc>/publication/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/admin/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/sarah-lu/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/yukiko-sawaya/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
+    <loc>/publication_types/1/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/usenix24-esbs/</loc>
@@ -23,166 +23,163 @@
     <loc>/authors/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/mahmood-sharif/</loc>
+    <loc>/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication_types/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/sarah-lu/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
+    <loc>/tags/source-themes/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/takamasa-isohara/</loc>
+    <loc>/authors/takamasa-isohara/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/yukiko-sawaya/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/adam-bates/</loc>
+    <loc>/authors/daniel-deutch/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/andy-riddle/</loc>
+    <loc>/authors/matan-ben-tov/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/david-ott/</loc>
+    <loc>/authors/nave-frost/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/adam-bates/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/andy-riddle/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/oakland24-cafa/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/david-ott/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/oakland24-drsec/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/kim-westfall/</loc>
+    <loc>/authors/kim-westfall/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/matthew-lentz/</loc>
+    <loc>/authors/matthew-lentz/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/pubali-datta/</loc>
+    <loc>/authors/pubali-datta/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/vijay-ganti/</loc>
+    <loc>/authors/vijay-ganti/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/keane-lucas/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/lujo-bauer/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/michael-k.-reiter/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/weiran-lin/</loc>
+    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ndss24-gbr/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/keane-lucas/</loc>
+    <loc>/authors/neo-eyal/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/lujo-bauer/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/michael-k.-reiter/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/neo-eyal/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/weiran-lin/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <loc>/authors/amit-cohen/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/esorics23-nir-attacks/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/amit-cohen/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/usenix23-malware-advtrain/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/samruddhi-pai/</loc>
+    <loc>/authors/samruddhi-pai/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/9/</loc>
+    <loc>/authors/arnav-chakravarthy/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/arnav-chakravarthy/</loc>
+    <loc>/authors/asmitha-rathis/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/asmitha-rathis/</loc>
+    <loc>/authors/gagandeep-singh/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/gagandeep-singh/</loc>
+    <loc>/authors/marius-vilcu/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/marius-vilcu/</loc>
+    <loc>/authors/nina-narodytska/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/nina-narodytska/</loc>
+    <loc>/publication_types/9/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/dmml22-rl-controllers/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/clark-barrett/</loc>
+    <loc>/authors/clark-barrett/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/haoze-wu/</loc>
+    <loc>/authors/haoze-wu/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/oopsla22-gnn-verify/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/hai22-bots/</loc>
+    <loc>/authors/daniel-kats/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/daniel-kats/</loc>
+    <loc>/publication/hai22-bots/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/icml22-cgd/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/saurabh-shintre/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/asiaccs21-malware/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/saurabh-shintre/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/anna-kawakami/</loc>
+    <loc>/authors/anna-kawakami/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/anupam-das/</loc>
+    <loc>/authors/anupam-das/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/camille-cobb/</loc>
+    <loc>/authors/camille-cobb/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/limin-jia/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/milijana-surbatovich/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/soups20-ifttt/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/limin-jia/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/milijana-surbatovich/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/acar-tamersoy/</loc>
+    <loc>/authors/acar-tamersoy/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/amelia-nash/</loc>
+    <loc>/authors/amelia-nash/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/daniel-marino/</loc>
+    <loc>/authors/daniel-marino/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/kevin-a.-roundy/</loc>
+    <loc>/authors/kevin-a.-roundy/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/molly-davies/</loc>
+    <loc>/authors/molly-davies/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chiw20-older-adults/</loc>
@@ -191,49 +188,55 @@
     <loc>/publication/arxiv19-nml/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
+    <loc>/publication_types/3/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/thesis19-phd-cmu-ece/</loc>
+    <lastmod>2019-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/sruti-bhagavatula/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/tops19-adv-ml/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/sruti-bhagavatula/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <loc>/authors/christopher-gates/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/matteo-dellamico/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/nicolas-christin/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chi19-customer-support/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/christopher-gates/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/matteo-dellamico/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/nicolas-christin/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/akira-yamada/</loc>
+    <loc>/authors/akira-yamada/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ayumu-kubota/</loc>
+    <loc>/authors/ayumu-kubota/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/joshua-tan/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/jumpei-urakawa/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/matthias-beckerle/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/michelle-mazurek/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/wpes18-privacy-valuations/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/joshua-tan/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/jumpei-urakawa/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/matthias-beckerle/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/michelle-mazurek/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ccs18-exposure-prediction/</loc>
@@ -242,22 +245,22 @@
     <loc>/publication/cvprw18-lpnorm/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/william-melicher/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/ndss18-dom-xss/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/william-melicher/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    <loc>/authors/janos-szurdi/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/janos-szurdi/</loc>
+    <loc>/authors/zachary-weinberg/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/pets17-censorship/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/zachary-weinberg/</loc>
-    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/akihiro-nakarai/</loc>
+    <loc>/authors/akihiro-nakarai/</loc>
     <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chi17-cross-cultural-study/</loc>
@@ -266,49 +269,51 @@
     <loc>/publication/ccs16-adv-ml/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/mihai-christodorescu/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/pedro-g.-leon/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/pets16-online-tracking/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/mihai-christodorescu/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/abdullah-garra/</loc>
   </url><url>
-    <loc>/author/pedro-g.-leon/</loc>
-    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+    <loc>/authors/achi-or-weingarten/</loc>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>/authors/alon-leshem/</loc>
+  </url><url>
+    <loc>/authors/ben-shapira/</loc>
+  </url><url>
+    <loc>/authors/ido-abelman/</loc>
+  </url><url>
+    <loc>/authors/jiahao-yu/</loc>
+  </url><url>
+    <loc>/authors/mohammed-qaiss/</loc>
+  </url><url>
+    <loc>/authors/nadav-gat/</loc>
+  </url><url>
+    <loc>/authors/nimrod-de-la-vega/</loc>
+  </url><url>
+    <loc>/authors/sagi-polaczek/</loc>
+  </url><url>
+    <loc>/authors/template/</loc>
+  </url><url>
+    <loc>/authors/tsufit-ronen/</loc>
+  </url><url>
+    <loc>/authors/zebin-yun/</loc>
   </url><url>
     <loc>/contact/</loc>
   </url><url>
     <loc>/people/</loc>
   </url><url>
-    <loc>/author/achi-or-weingarten/</loc>
-  </url><url>
-    <loc>/author/alon-leshem/</loc>
-  </url><url>
-    <loc>/author/ben-shapira/</loc>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/author/ido-abelman/</loc>
+    <loc>/post/</loc>
   </url><url>
-    <loc>/author/jiahao-yu/</loc>
+    <loc>/preprint/</loc>
   </url><url>
-    <loc>/author/matan-ben-tov/</loc>
-  </url><url>
-    <loc>/author/mohammed-qaiss/</loc>
-  </url><url>
-    <loc>/author/naama-yochai/</loc>
-  </url><url>
-    <loc>/author/nadav-gat/</loc>
-  </url><url>
-    <loc>/author/nimrod-de-la-vega/</loc>
-  </url><url>
-    <loc>/author/sagi-polaczek/</loc>
-  </url><url>
-    <loc>/author/template-author/</loc>
-  </url><url>
-    <loc>/author/tsufit-ronen/</loc>
-  </url><url>
-    <loc>/author/zebin-yun/</loc>
+    <loc>/talk/</loc>
   </url>
 </urlset>

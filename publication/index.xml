@@ -5,9 +5,9 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>/publication/usenix24-esbs/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/usenix24-esbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CaFA: Cost-aware, Feasible Attacks With Database Constraints Against Neural Tabular Classifiers</title>
+      <link>/publication/oakland24-cafa/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/oakland24-cafa/</guid>
       <description></description>
     </item>
     
@@ -39,7 +47,7 @@
     <item>
       <title>Accessorize in the Dark: A Security Analysis of Near-Infrared Face Recognition</title>
       <link>/publication/esorics23-nir-attacks/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid>/publication/esorics23-nir-attacks/</guid>
       <description></description>
     </item>
@@ -113,6 +121,14 @@
       <link>/publication/arxiv19-nml/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/arxiv19-nml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Inference-Time Attacks Against Machine-Learning Systems and a Defense Against Them</title>
+      <link>/publication/thesis19-phd-cmu-ece/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/thesis19-phd-cmu-ece/</guid>
       <description></description>
     </item>
     
