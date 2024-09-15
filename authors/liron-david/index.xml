@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PLUS Research Group</title>
+    <link>/authors/liron-david/</link>
+      <atom:link href="/authors/liron-david/index.xml" rel="self" type="application/rss+xml" />
+    <description>PLUS Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
+      <title>PLUS Research Group</title>
+      <link>/authors/liron-david/</link>
+    </image>
+    
+  </channel>
+</rss>
