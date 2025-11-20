@@ -42,7 +42,16 @@
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/matan-ben-tov/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/mor-geva/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/tacl26-hijacking/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/ccs25-gaslite/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
@@ -281,9 +290,6 @@
     <loc>/authors/sruti-bhagavatula/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/tops19-adv-ml/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -368,6 +374,8 @@
   </url><url>
     <loc>/authors/ido-abelman/</loc>
   </url><url>
+    <loc>/authors/ishay-yemini/</loc>
+  </url><url>
     <loc>/authors/jiahao-yu/</loc>
   </url><url>
     <loc>/authors/lior-ziv/</loc>
@@ -378,7 +386,11 @@
   </url><url>
     <loc>/authors/mohammed-qaiss/</loc>
   </url><url>
+    <loc>/authors/nathan-liebmann/</loc>
+  </url><url>
     <loc>/authors/nimrod-de-la-vega/</loc>
+  </url><url>
+    <loc>/authors/roy-lahmy/</loc>
   </url><url>
     <loc>/authors/sagi-polaczek/</loc>
   </url><url>
