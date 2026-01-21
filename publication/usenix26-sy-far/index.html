@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="As chatbots become increasingly integrated into group conversations on instant messaging platforms, concerns arise about their impact on user privacy. While prior research has examined chatbot risks in one-on-one interactions, little is known about how users perceive and respond to privacy threats in group settings, where chatbots may silently access messages and metadata. To address this gap, we conducted an online survey (N=374) across five popular messaging platforms—WhatsApp, Discord, Telegram, Viber, and LINE—to evaluate user awareness, understanding of chatbot access, privacy concerns, and behavioral responses. We found that many users were unaware of bots in their group chats and significantly underestimated their data access: only 41.7% correctly identified what messages chatbots could access. Privacy concerns also rose sharply after users learned about actual bot permissions. Based on our findings, we propose a five-stage model that captures how users detect, interpret, and respond to chatbot-related privacy risks. We further analyzed the designs of platforms with official chatbot support through this model and found mismatches between design choices and user expectations. Finally, we offer design recommendations to improve transparency and user control in group chatbot-interactions.">
+  <meta name="description" content="Security-critical machine-learning (ML) systems, such as face-recognition systems, are susceptible to adversarial examples, including real-world physically realizable attacks. Various means to boost ML&#39;s adversarial robustness have been proposed; however, they typically induce unfair robustness: It is often easier to attack from certain classes or groups than from others. Several techniques have been developed to improve adversarial robustness while seeking perfect fairness between classes. Yet, prior work has focused on settings where security and fairness are less critical. Our insight is that achieving perfect parity in realistic fairness-critical tasks, such as face recognition, is often infeasible--some classes may be highly similar, leading to more misclassifications between them. Instead, we suggest that seeking symmetry--i.e., attacks from class i to j  would be as successful as from j to i--is more tractable. Intuitively, symmetry is a desirable because class resemblance is a symmetric relation in most domains. Additionally, as we prove theoretically, symmetry between individuals induces symmetry between any set of sub-groups, in contrast to other fairness notions where group-fairness is often elusive. We develop Sy-FAR, a technique to encourage symmetry while also optimizing adversarial robustness and extensively evaluate it using five datasets, with three model architectures, including against targeted and untargeted realistic attacks. The results show Sy-FAR significantly improves fair adversarial robustness compared to state-of-the-art methods. Moreover, we find that Sy-FAR is faster and more consistent across runs. Notably, Sy-FAR also ameliorates another type of unfairness we discover in this work--target classes that adversarial examples are likely to be classified into become significantly less vulnerable after inducing symmetry.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/pets26-chatbots/">
+  <link rel="alternate" hreflang="en-us" href="/publication/usenix26-sy-far/">
 
   
 
@@ -221,7 +221,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/publication/pets26-chatbots/">
+  <link rel="canonical" href="/publication/usenix26-sy-far/">
 
   
   
@@ -237,15 +237,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="PLUS Research Group">
-  <meta property="og:url" content="/publication/pets26-chatbots/">
-  <meta property="og:title" content="Bot Among Us: Exploring User Awareness and Privacy Concerns About Chatbots in Group Chats | PLUS Research Group">
-  <meta property="og:description" content="As chatbots become increasingly integrated into group conversations on instant messaging platforms, concerns arise about their impact on user privacy. While prior research has examined chatbot risks in one-on-one interactions, little is known about how users perceive and respond to privacy threats in group settings, where chatbots may silently access messages and metadata. To address this gap, we conducted an online survey (N=374) across five popular messaging platforms—WhatsApp, Discord, Telegram, Viber, and LINE—to evaluate user awareness, understanding of chatbot access, privacy concerns, and behavioral responses. We found that many users were unaware of bots in their group chats and significantly underestimated their data access: only 41.7% correctly identified what messages chatbots could access. Privacy concerns also rose sharply after users learned about actual bot permissions. Based on our findings, we propose a five-stage model that captures how users detect, interpret, and respond to chatbot-related privacy risks. We further analyzed the designs of platforms with official chatbot support through this model and found mismatches between design choices and user expectations. Finally, we offer design recommendations to improve transparency and user control in group chatbot-interactions."><meta property="og:image" content="/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="/publication/usenix26-sy-far/">
+  <meta property="og:title" content="Sy-FAR: Symmetry-based Fair Adversarial Robustness | PLUS Research Group">
+  <meta property="og:description" content="Security-critical machine-learning (ML) systems, such as face-recognition systems, are susceptible to adversarial examples, including real-world physically realizable attacks. Various means to boost ML&#39;s adversarial robustness have been proposed; however, they typically induce unfair robustness: It is often easier to attack from certain classes or groups than from others. Several techniques have been developed to improve adversarial robustness while seeking perfect fairness between classes. Yet, prior work has focused on settings where security and fairness are less critical. Our insight is that achieving perfect parity in realistic fairness-critical tasks, such as face recognition, is often infeasible--some classes may be highly similar, leading to more misclassifications between them. Instead, we suggest that seeking symmetry--i.e., attacks from class i to j  would be as successful as from j to i--is more tractable. Intuitively, symmetry is a desirable because class resemblance is a symmetric relation in most domains. Additionally, as we prove theoretically, symmetry between individuals induces symmetry between any set of sub-groups, in contrast to other fairness notions where group-fairness is often elusive. We develop Sy-FAR, a technique to encourage symmetry while also optimizing adversarial robustness and extensively evaluate it using five datasets, with three model architectures, including against targeted and untargeted realistic attacks. The results show Sy-FAR significantly improves fair adversarial robustness compared to state-of-the-art methods. Moreover, we find that Sy-FAR is faster and more consistent across runs. Notably, Sy-FAR also ameliorates another type of unfairness we discover in this work--target classes that adversarial examples are likely to be classified into become significantly less vulnerable after inducing symmetry."><meta property="og:image" content="/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2025-09-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2026-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2026-02-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2026-08-01T00:00:00&#43;00:00">
   
 
   
@@ -267,16 +267,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/pets26-chatbots/"
+    "@id": "/publication/usenix26-sy-far/"
   },
-  "headline": "Bot Among Us: Exploring User Awareness and Privacy Concerns About Chatbots in Group Chats",
+  "headline": "Sy-FAR: Symmetry-based Fair Adversarial Robustness",
   
-  "datePublished": "2025-09-01T00:00:00Z",
-  "dateModified": "2026-02-01T00:00:00Z",
+  "datePublished": "2026-01-01T00:00:00Z",
+  "dateModified": "2026-08-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Kai-Hsiang Chou"
+    "name": "Haneen Najjar"
   },
   
   "publisher": {
@@ -287,7 +287,7 @@
       "url": "/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "As chatbots become increasingly integrated into group conversations on instant messaging platforms, concerns arise about their impact on user privacy. While prior research has examined chatbot risks in one-on-one interactions, little is known about how users perceive and respond to privacy threats in group settings, where chatbots may silently access messages and metadata. To address this gap, we conducted an online survey (N=374) across five popular messaging platforms—WhatsApp, Discord, Telegram, Viber, and LINE—to evaluate user awareness, understanding of chatbot access, privacy concerns, and behavioral responses. We found that many users were unaware of bots in their group chats and significantly underestimated their data access: only 41.7% correctly identified what messages chatbots could access. Privacy concerns also rose sharply after users learned about actual bot permissions. Based on our findings, we propose a five-stage model that captures how users detect, interpret, and respond to chatbot-related privacy risks. We further analyzed the designs of platforms with official chatbot support through this model and found mismatches between design choices and user expectations. Finally, we offer design recommendations to improve transparency and user control in group chatbot-interactions."
+  "description": "Security-critical machine-learning (ML) systems, such as face-recognition systems, are susceptible to adversarial examples, including real-world physically realizable attacks. Various means to boost ML's adversarial robustness have been proposed; however, they typically induce unfair robustness: It is often easier to attack from certain classes or groups than from others. Several techniques have been developed to improve adversarial robustness while seeking perfect fairness between classes. Yet, prior work has focused on settings where security and fairness are less critical. Our insight is that achieving perfect parity in realistic fairness-critical tasks, such as face recognition, is often infeasible--some classes may be highly similar, leading to more misclassifications between them. Instead, we suggest that seeking symmetry--i.e., attacks from class i to j  would be as successful as from j to i--is more tractable. Intuitively, symmetry is a desirable because class resemblance is a symmetric relation in most domains. Additionally, as we prove theoretically, symmetry between individuals induces symmetry between any set of sub-groups, in contrast to other fairness notions where group-fairness is often elusive. We develop Sy-FAR, a technique to encourage symmetry while also optimizing adversarial robustness and extensively evaluate it using five datasets, with three model architectures, including against targeted and untargeted realistic attacks. The results show Sy-FAR significantly improves fair adversarial robustness compared to state-of-the-art methods. Moreover, we find that Sy-FAR is faster and more consistent across runs. Notably, Sy-FAR also ameliorates another type of unfairness we discover in this work--target classes that adversarial examples are likely to be classified into become significantly less vulnerable after inducing symmetry."
 }
 </script>
 
@@ -305,7 +305,7 @@
 
 
 
-  <title>Bot Among Us: Exploring User Awareness and Privacy Concerns About Chatbots in Group Chats | PLUS Research Group</title>
+  <title>Sy-FAR: Symmetry-based Fair Adversarial Robustness | PLUS Research Group</title>
 
 </head>
 
@@ -557,7 +557,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Bot Among Us: Exploring User Awareness and Privacy Concerns About Chatbots in Group Chats</h1>
+  <h1>Sy-FAR: Symmetry-based Fair Adversarial Robustness</h1>
 
   
 
@@ -575,7 +575,7 @@
     
 
   
-  <span><a href="/authors/kai-hsiang-chou/">Kai-Hsiang Chou</a></span>, <span><a href="/authors/yi-an-wang/">Yi-An Wang</a></span>, <span><a href="/authors/chong-kai-lau/">Chong Kai Lau</a></span>, <span><a href="/authors/admin/">Mahmood Sharif</a></span>, <span><a href="/authors/hsu-chun-hsiao/">Hsu-Chun Hsiao</a></span>
+  <span><a href="/authors/haneen-najjar/">Haneen Najjar</a></span>, <span><a href="/authors/eyal-ronen/">Eyal Ronen</a></span>, <span><a href="/authors/admin/">Mahmood Sharif</a></span>
   </div>
   
   
@@ -586,7 +586,7 @@
     
       
     
-    February 2026
+    August 2026
   </span>
   
 
@@ -637,7 +637,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/pets26-chatbots/cite.bib">
+        data-filename="/publication/usenix26-sy-far/cite.bib">
   Cite
 </button>
 
@@ -654,6 +654,38 @@
 
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2509.12939" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/haneenn24/Sy-FAR-Symmetry-based-Fair-Adversarial-Robustness" target="_blank" rel="noopener">
+    
+    Code
+  </a>
+
 
 </div>
 
@@ -667,7 +699,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">As chatbots become increasingly integrated into group conversations on instant messaging platforms, concerns arise about their impact on user privacy. While prior research has examined chatbot risks in one-on-one interactions, little is known about how users perceive and respond to privacy threats in group settings, where chatbots may silently access messages and metadata. To address this gap, we conducted an online survey (N=374) across five popular messaging platforms—WhatsApp, Discord, Telegram, Viber, and LINE—to evaluate user awareness, understanding of chatbot access, privacy concerns, and behavioral responses. We found that many users were unaware of bots in their group chats and significantly underestimated their data access: only 41.7% correctly identified what messages chatbots could access. Privacy concerns also rose sharply after users learned about actual bot permissions. Based on our findings, we propose a five-stage model that captures how users detect, interpret, and respond to chatbot-related privacy risks. We further analyzed the designs of platforms with official chatbot support through this model and found mismatches between design choices and user expectations. Finally, we offer design recommendations to improve transparency and user control in group chatbot-interactions.</p>
+    <p class="pub-abstract">Security-critical machine-learning (ML) systems, such as face-recognition systems, are susceptible to adversarial examples, including real-world physically realizable attacks. Various means to boost ML&rsquo;s adversarial robustness have been proposed; however, they typically induce unfair robustness: It is often easier to attack from certain classes or groups than from others. Several techniques have been developed to improve adversarial robustness while seeking perfect fairness between classes. Yet, prior work has focused on settings where security and fairness are less critical. Our insight is that achieving perfect parity in realistic fairness-critical tasks, such as face recognition, is often infeasible&ndash;some classes may be highly similar, leading to more misclassifications between them. Instead, we suggest that seeking symmetry&ndash;i.e., attacks from class i to j  would be as successful as from j to i&ndash;is more tractable. Intuitively, symmetry is a desirable because class resemblance is a symmetric relation in most domains. Additionally, as we prove theoretically, symmetry between individuals induces symmetry between any set of sub-groups, in contrast to other fairness notions where group-fairness is often elusive. We develop Sy-FAR, a technique to encourage symmetry while also optimizing adversarial robustness and extensively evaluate it using five datasets, with three model architectures, including against targeted and untargeted realistic attacks. The results show Sy-FAR significantly improves fair adversarial robustness compared to state-of-the-art methods. Moreover, we find that Sy-FAR is faster and more consistent across runs. Notably, Sy-FAR also ameliorates another type of unfairness we discover in this work&ndash;target classes that adversarial examples are likely to be classified into become significantly less vulnerable after inducing symmetry.</p>
     
 
     
@@ -697,7 +729,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Annual Privacy Enhancing Technologies Symposium (PETS)</div>
+          <div class="col-12 col-md-9">USENIX Security Symposium</div>
         </div>
       </div>
       <div class="col-md-1"></div>
