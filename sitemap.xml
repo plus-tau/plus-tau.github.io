@@ -35,6 +35,12 @@
     <loc>/tags/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/zebin-yun/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/raid26-fab/</loc>
+    <lastmod>2026-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/sol-yarkoni/</loc>
     <lastmod>2026-03-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -153,9 +159,6 @@
     <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/nadav-gat/</loc>
-    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/zebin-yun/</loc>
     <lastmod>2024-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/aisec24-label-leakage/</loc>

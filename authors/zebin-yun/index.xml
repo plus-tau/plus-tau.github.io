@@ -5,12 +5,20 @@
     <link>/authors/zebin-yun/</link>
       <atom:link href="/authors/zebin-yun/index.xml" rel="self" type="application/rss+xml" />
     <description>PLUS Research Group</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hufa6e9ab77e4b6eb48d7298a8945fa96c_15315_512x512_fill_lanczos_center_3.png</url>
       <title>PLUS Research Group</title>
       <link>/authors/zebin-yun/</link>
     </image>
+    
+    <item>
+      <title>Backdooring Acoustic Foundation Models for Physically Realizable Triggers</title>
+      <link>/publication/raid26-fab/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/raid26-fab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Ultimate Combo: Boosting Adversarial Example Transferability by Composing Data Augmentations</title>
